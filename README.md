@@ -1,1 +1,1 @@
-# gamebank.github.io
+# https://gbprize.github.io/
