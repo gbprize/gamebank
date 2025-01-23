@@ -2,7 +2,7 @@
 Welcome to Gamebank, where your gaming experience is our top priority! Here, players can enjoy a variety of games in a secure and enjoyable environment. To ensure fairness and transparency, please read the following guidelines carefully. By using #Gamebank, you agree to abide by these terms and conditions. Let's keep the community fun, fair, and respectful for everyone.
 
 ## Features:
-- Make unlimited money.
+- Make unlimited money
 - User-Friendly Interface
 - Secure Wallet System
 - Privacy and Security
@@ -48,7 +48,7 @@ Top-Up:$500 Income:$100
 Top-Up:$100 Income:$15-$25
 ```
 
-## GameBank App Features
+## Gamebank App Features
 > User-Friendly Interface
 ```
 সহজে ব্যবহারযোগ্য ইন্টারফেস যা নতুন এবং অভিজ্ঞ ব্যবহারকারীদের জন্য উপযুক্ত।
@@ -81,6 +81,9 @@ Top-Up:$100 Income:$15-$25
 | ----------------------------- |
 | Released Date: 3 Feb 2019                  |
 | #Initial Release                  |
+
+## Gamebank LAW
+https://gbprize.github.io/GamebankLAW/TermsAndPolicy.html
 
 ## Gamebank github
 [GIT](https://github.com/gbprize) <br>
