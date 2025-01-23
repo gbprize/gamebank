@@ -8,7 +8,7 @@ Welcome to Gamebank, where your gaming experience is our top priority! Here, pla
 - Privacy and Security
 - Referral Program
 - Partnership
-- Agent Support & earn money ($100-$1,500)
+- Agent Support & Earning ($100-$1,500)
 
 <a href="https://gbprize.github.io/"><strong>Web version ➥LIVE DEMO</strong></a>
 
@@ -27,23 +27,23 @@ Welcome to Gamebank, where your gaming experience is our top priority! Here, pla
 ```
 Top-Up:$15,000 Income:$1,500
 ```
-> 2.Master-Agent
+> 2. Master-Agent
 ```
 Top-Up:$10,000 Income:$1,000
 ```
-> 3.Sub-Agent
+> 3. Sub-Agent
 ```
 Top-Up:$5,000 Income:$600
 ```
-> 4.Normal-Agent
+> 4. Normal-Agent
 ```
 Top-Up:$2,000 Income:$300
 ```
-> 5.Dealer-Agent
+> 5. Dealer-Agent
 ```
 Top-Up:$500 Income:$100
 ```
-> 5.Normal-User
+> 5. Normal-User
 ```
 Top-Up:$100 Income:$15-$25
 ```
