@@ -85,5 +85,11 @@ Top-Up:$100 Income:$15-$25
 ## Gamebank LAW
 https://gbprize.github.io/GamebankLAW/TermsAndPolicy.html
 
-## Gamebank github
-[GIT](https://github.com/gbprize) <br>
+## Join Us 
+* [Telegram Channel](https://t.me/gbprize) (👍)
+
+
+
+> 😘😘😘
+
+[THANK YOU SO MUCH](https://github.com/gbprize) <br>
