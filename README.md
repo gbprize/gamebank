@@ -15,7 +15,7 @@ Welcome to Gamebank, where your gaming experience is our top priority! Here, pla
 ## Download
 <a href="https://github.com/gbprize/gamebank/raw/refs/heads/main/software-release/android-release/gamebank%20v1.0%20app-release.apk"><img alt="Get it on Google Play" 
 	src="https://github.com/gbprize/gamebank/blob/main/assets/images/badge_play_story_p001_202402.svg" width="170" height="70"></a>
- <a href="https://github.com/gbprize/gamebank/raw/refs/heads/main/software-release/android-release/gamebank%20v1.0%20app-release.apk"><img alt="Get it on App Store" 
+ <a href="#"><img alt="Get it on App Store" 
 	src="https://github.com/gbprize/gamebank/blob/main/assets/images/badge_app_store_p001_202401.svg" style="padding-left:15px;" width="170" height="70"></a>
 
 * [Latest version release](https://github.com/gbprize/gamebank/raw/refs/heads/main/software-release/android-release/gamebank%20v1.0%20app-release.apk) (recommended)
