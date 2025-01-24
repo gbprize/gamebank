@@ -13,13 +13,13 @@ Welcome to Gamebank, where your gaming experience is our top priority! Here, pla
 <a href="https://gbprize.github.io/"><strong>Web version ➥LIVE DEMO</strong></a>
 
 ## Download
-<a href="#"><img alt="Get it on Google Play" 
+<a href="https://github.com/gbprize/gamebank/raw/refs/heads/main/software-release/android-release/gamebank%20v1.0%20app-release.apk"><img alt="Get it on Google Play" 
 	src="https://github.com/gbprize/gamebank/blob/main/assets/images/badge_play_story_p001_202402.svg" width="170" height="70"></a>
- <a href="#"><img alt="Get it on App Store" 
+ <a href="https://github.com/gbprize/gamebank/raw/refs/heads/main/software-release/android-release/gamebank%20v1.0%20app-release.apk"><img alt="Get it on App Store" 
 	src="https://github.com/gbprize/gamebank/blob/main/assets/images/badge_app_store_p001_202401.svg" style="padding-left:15px;" width="170" height="70"></a>
 
-* [Latest version release](#) (recommended)
-* [version v1.0.1 apk](#)
+* [Latest version release](https://github.com/gbprize/gamebank/raw/refs/heads/main/software-release/android-release/gamebank%20v1.0%20app-release.apk) (recommended)
+* [version v1.0 apk](https://github.com/gbprize/gamebank/raw/refs/heads/main/software-release/android-release/gamebank%20v1.0%20app-release.apk)
 
 ## Gamebank Agent Earning & Category etc.
 - 1.Game-Master, 2.Master-Agent, 3.Sub-Agent, 4.Normal-Agent, 5.Dealer-Agent
@@ -80,6 +80,7 @@ Top-Up:$100 Income:$15-$25
 | Version 1.0                         |
 | ----------------------------- |
 | Released Date: 3 Feb 2019                  |
+| Update Date: 23 Jan 2025                  |
 | #Initial Release                  |
 
 ## Gamebank LAW
