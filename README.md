@@ -79,10 +79,10 @@ Top-Up:$100 Income:$15-$25
 
 
 ## Change log & updates
-| Version 1.0                         |
+| Version 2.5.1                         |
 | ----------------------------- |
-| Released Date: 3 Feb 2019                  |
-| Update Date: 23 Jan 2025                  |
+| Released Date: 10 Feb 2020                  |
+| Update Date: 25 Jan 2025                  |
 | #Initial Release                  |
 
 | Version 1.0.1                         |
@@ -91,10 +91,10 @@ Top-Up:$100 Income:$15-$25
 | Update Date: 25 Jan 2025                  |
 | #Initial Release                  |
 
-| Version 2.5.1                         |
+| Version 1.0                         |
 | ----------------------------- |
-| Released Date: 10 Feb 2020                  |
-| Update Date: 25 Jan 2025                  |
+| Released Date: 3 Feb 2019                  |
+| Update Date: 23 Jan 2025                  |
 | #Initial Release                  |
 
 ## Gamebank LAW
