@@ -104,7 +104,8 @@ https://gbprize.github.io/GamebankLAW/TermsAndPolicy.html
 * [Telegram Channel](https://t.me/gbprize) (👍)
 >📬 Official Email👉 gamebankprize@gmail.com
 ```
-gamebankprize@gmail.com
+👉 gamebankprize@gmail.com
+👉 gbprize@protonmail.com
 ```
 
 > 😘😘😘
