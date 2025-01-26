@@ -1,6 +1,12 @@
 # <img src="assets/icon_512by512-black.png" width="50" height="50"/> Gamebank
 Welcome to Gamebank, where your gaming experience is our top priority! Here, players can enjoy a variety of games in a secure and enjoyable environment. To ensure fairness and transparency, please read the following guidelines carefully. By using #Gamebank, you agree to abide by these terms and conditions. Let's keep the community fun, fair, and respectful for everyone.
 
+## Announcement
+| GAMEBANK |
+| -------------------------------------------------------------------------------------------------------------------- |
+| Date: 15 April, 2025 11:30PM 🕥 |
+| Gamebank: $1,00,000 ($0.1 Million) |
+
 ## Features:
 - Make unlimited money
 - User-Friendly Interface
