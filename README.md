@@ -100,10 +100,12 @@ Top-Up:$100 Income:$15-$25
 ## Gamebank LAW
 https://gbprize.github.io/GamebankLAW/TermsAndPolicy.html
 
-## Join Us 
+## Join Us & Contact
 * [Telegram Channel](https://t.me/gbprize) (👍)
-
-
+>📬 Official Email👉 gamebankprize@gmail.com
+```
+gamebankprize@gmail.com
+```
 
 > 😘😘😘
 
