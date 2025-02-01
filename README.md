@@ -29,7 +29,7 @@ Welcome to Gamebank, where your gaming experience is our top priority! Here, pla
 * [version v1.0 apk](#)
 * [version v1.0.1 apk](#)
 * [version v2.5.1 apk](#)
-* * [version v2.5.1 apk](https://github.com/gbprize/gamebank/raw/refs/heads/main/software-release/android-release/gamebank-v2.5.2-app-release.apk)
+* [version v2.5.1 apk](https://github.com/gbprize/gamebank/raw/refs/heads/main/software-release/android-release/gamebank-v2.5.2-app-release.apk)
 
 ## Gamebank Agent Earning & Category etc.
 - 1.Game-Master, 2.Master-Agent, 3.Sub-Agent, 4.Normal-Agent, 5.Dealer-Agent
